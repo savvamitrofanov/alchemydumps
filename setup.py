@@ -33,7 +33,7 @@ setup(
     install_requires=[
         'Flask-SQLAlchemy',
         'Flask-Script',
-        'Flask==0.10.1',
+        'Flask',
         'SQLAlchemy',
         'Unipath',
         'python-decouple',
